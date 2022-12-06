@@ -3,7 +3,7 @@
 //*********************************
 
 !(async () => {
-  ids = $prefs.valueForKey("https://testflight.apple.com/join/FT9n1ncG");
+  ids = $prefs.valueForKey("FT9n1ncG");
   if (ids == "") {
     $notify("所有TF已加入完毕", "请手动关闭", "");
     $done();
