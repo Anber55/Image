@@ -393,7 +393,8 @@ patch:
 
 来张 15 个候选的靓照
 
-[image:CEBDF18C-C31F-4BC5-BF58-664F72F84451-45860-0000039F025A0EFB/2014-06-12_221853.png]
+<img width="503" alt="2014-06-12_221853" src="https://user-images.githubusercontent.com/117334130/210295495-16adad32-9356-4bc5-8c90-4d53b3d811b7.png">
+
 ### 关闭用户词典和字频调整
 
 ```
@@ -1119,13 +1120,7 @@ patch:
 官网： [http://spiim.com/](http://spiim.com/)
 GitHub 主页： [https://github.com/guoc/spi](https://github.com/guoc/spi), 这款输入法是开源的
 
-[收起]()
-[image:B720F97F-CD45-4C0C-8698-3209BB11EAF5-45860-0000039F0257C7EC/arrow-down@2x.png]
- 
 
-[展开全文]()
-[image:EE2061B7-919F-44B0-9DCC-4712F6EE0141-45860-0000039F0258751B/_arrow-down@2x.png]
-  
 
 0. [小狼毫 Rime 输入法任务导向式常用参数修改指南](https://blog.csdn.net/emca/article/details/104827624)  *千次阅读*  2020-03-12 20:56:34
 0. 【深山红叶整理 v20200226】 本修改指南的每个修改条目尽量以多个关键词作为条目标题，你可以使用简短... *配置* 小狼毫时，请随时注意系统TEMP目录中的警告和错误信息（用记事本打开以 *rime*.weasel 字符串开头的文...
@@ -1618,13 +1613,6 @@ speller:
  delimiter: " '"
 ```
 
-0. [收起]()
-[image:816C12EC-6C8B-4D59-A359-15D3CF6A9E9E-45860-0000039F025910A3/__arrow-down@2x.png]
-0. 
-
-0. [展开全文]()
-[image:548860A3-E556-46B5-8838-74076E06B58D-45860-0000039F02557B82/___arrow-down@2x.png]
-0. 
 
 0. [小狼毫(Rime)输入法设置Shift直接上屏英文字符并切换为英文状态方法](https://blog.csdn.net/sdujava2011/article/details/84098971?utm_term=rime%E8%BE%93%E5%85%A5%E6%B3%95%E9%85%8D%E7%BD%AE%E8%8B%B1%E6%96%87%E7%BF%BB%E8%AF%91&amp;utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-0-84098971&amp;spm=3001.4430)
 0. 其中L指Left,左的意思。commit-提交。code-代码。 当我们 *输入* 一段文字未上屏之前,按此键后字符将被将直接上屏,*RIME* 切换为 *英文输入* 状态。再次按此键 *RIME* 切换回中文 *输入* 状态。 Shift_R: inline_ascii代码: ...
@@ -1722,13 +1710,7 @@ RIME输入法配置 http://tieba.baidu.com/p/3773090625 https://www.jianguoyun.c
  参见
 ```
 
-0. [收起]()
-[image:4F6B2A02-524A-4460-B733-D67FE84AA466-45860-0000039F025442E3/____arrow-down@2x.png]
-0. 
 
-0. [展开全文]()
-[image:5B7D6511-3710-4DE4-832A-C081644729FC-45860-0000039F02523CF8/_____arrow-down@2x.png]
-0. 
 
 0. [Mac 平台最好用的 五笔输入法 鼠须管 Rime 安装教程](https://blog.csdn.net/KimBing/article/details/88042101)  *千次阅读*  2019-02-28 19:14:49
 0. Mac 鼠须管 *Rime* *输入法* 安装五笔 *输入法* 教程 相关链接 极点五笔方案(github)： https://github.com/KyleBing/ *rime* -wubi86-jidan *RIME* 官网： https:// *rime*.im/ *RIME* github 地址： https://github.com/ *rime* *RIME* ...
@@ -1812,11 +1794,13 @@ control + 0 或者 shift + control + 0 弹出菜单
 > 需要将你下载的文件放入 `/Users/你用户名/Library/Rime` 这个目录下，了然否？
 
 ### 3. 皮肤
+![20200308233929433](https://user-images.githubusercontent.com/117334130/210295354-a0d475c9-c7e2-464b-86a6-70e5bfde880d.png)
 
-[image:AA4939D7-D753-4B67-BB60-D2D74227B88C-45860-0000039F02519031/20200308233929433.png]
+
 ## 配置 小狼毫（Windows）
 
-[image:A584D85C-9268-4081-99E4-8101B3DA8A07-45860-0000039F025B122D/20200308233940366.png]
+<img width="177" alt="20200308233940366" src="https://user-images.githubusercontent.com/117334130/210295342-ac222ce9-16c3-4a20-8fb9-891b4f396041.png">
+
 1. 点击【开始】
 2. 打开刚刚安装的小狼毫输入法程序目录，打开【用户文件夹】
 3. 把该项目中的文件复制到里面
@@ -1888,14 +1872,12 @@ translator:
 ```
 
 效果如图：
+![20200308233953399](https://user-images.githubusercontent.com/117334130/210295292-3a9dd930-37d0-40d9-993a-18a2dcebe4fe.png)
+![20200308234000694](https://user-images.githubusercontent.com/117334130/210295297-f9bc44a8-5f0e-4e62-ac2b-68ffb9eda279.png)
+![20200308234007134](https://user-images.githubusercontent.com/117334130/210295300-7a682a5c-0177-411c-ab38-e775c32e8a01.png)
+![20200308234013286](https://user-images.githubusercontent.com/117334130/210295309-bab3efb9-95bb-4415-a188-3c06c5adc8b3.png)
 
-[image:40EC7662-9058-463D-9156-A0C3665DD49A-45860-0000039F0252EDDB/20200308233953399.png]
 
-[image:169049A1-D330-48F9-9280-5EE1E50288EA-45860-0000039F0253A306/20200308234000694.png]
-
-[image:68E0E4AD-1CB8-4422-982E-2AB33DDEC49D-45860-0000039F0254E0B7/20200308234007134.png]
-
-[image:B06C5A8D-63C9-409C-BD15-4B72876154C7-45860-0000039F025C8D8F/20200308234013286.png]
 ### 3. 快捷输入大写数字：壹贰叁肆伍陆
 
 本库中包含一个可以输入大写数字的方案，名叫 `大写数字` ，呼出菜单选择该方案即可。
@@ -1904,8 +1886,8 @@ translator:
 键对应值1234567890一二三四五六七八九〇wqbsjfd.万千百十角分点z之整y月元亿 键(按住 shift)对应值1234567890壹贰叁肆伍陆柒捌玖零wqbsjfd.万佰仟拾角分第点z之整y月圆亿
 
 输入案例：
+![20200308234024916](https://user-images.githubusercontent.com/117334130/210295259-e769d200-3a95-4d85-a71f-9deb744ccd82.gif)
 
-[image:FBDB1C49-4BB3-4DF9-A16F-50755F05911A-45860-0000039F02571128/20200308234024916.gif]
 ### 4. 输出系统变量
 
 自 `v0.13` 之后可自定义输出系统变量，如日期等
